@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.css": "/vitaliy-zhuravel/static/css/main.7acaea2f.css",
-    "main.js": "/vitaliy-zhuravel/static/js/main.07d3183d.js",
+    "main.css": "/vitaliy-zhuravel/static/css/main.59f97137.css",
+    "main.js": "/vitaliy-zhuravel/static/js/main.84d7ae41.js",
+    "static/media/profile.jpg": "/vitaliy-zhuravel/static/media/profile.9634be14d6de8daf16a7.jpg",
+    "static/media/profile-01.jpg": "/vitaliy-zhuravel/static/media/profile-01.52941ac1d3efd645ccb0.jpg",
+    "static/media/react-images.jpg": "/vitaliy-zhuravel/static/media/react-images.b407205b8717f86c6082.jpg",
+    "static/media/searchimages.jpg": "/vitaliy-zhuravel/static/media/searchimages.61d72d9c2233f4adc7fe.jpg",
+    "static/media/certificate.jpg": "/vitaliy-zhuravel/static/media/certificate.d1b6dabbe28f6737aaf8.jpg",
+    "static/media/filmoteka.jpg": "/vitaliy-zhuravel/static/media/filmoteka.8ed8c670709909301cb5.jpg",
+    "static/media/webstudio.jpg": "/vitaliy-zhuravel/static/media/webstudio.7e6503a8c5ef8e4eb3a1.jpg",
+    "static/media/comments.jpg": "/vitaliy-zhuravel/static/media/comments.0d48b5ccaa89c32c1d7f.jpg",
+    "static/media/movies-router.jpg": "/vitaliy-zhuravel/static/media/movies-router.3531e5f4b4104e6519d6.jpg",
+    "static/media/Vitaliy Zhuravel_full stack developer.pdf": "/vitaliy-zhuravel/static/media/Vitaliy Zhuravel_full stack developer.c9feb4e74923acc2c55b.pdf",
+    "static/media/icecream.jpg": "/vitaliy-zhuravel/static/media/icecream.add0466a2a1e821ee4b1.jpg",
+    "static/media/contacts.jpg": "/vitaliy-zhuravel/static/media/contacts.3437078570fb105df7df.jpg",
+    "static/media/slimmom.jpg": "/vitaliy-zhuravel/static/media/slimmom.da766e7c076770ec638e.jpg",
+    "static/media/logo1.png": "/vitaliy-zhuravel/static/media/logo1.5ce86cc96077e160833a.png",
     "index.html": "/vitaliy-zhuravel/index.html",
-    "main.7acaea2f.css.map": "/vitaliy-zhuravel/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/vitaliy-zhuravel/static/js/main.07d3183d.js.map"
+    "main.59f97137.css.map": "/vitaliy-zhuravel/static/css/main.59f97137.css.map",
+    "main.84d7ae41.js.map": "/vitaliy-zhuravel/static/js/main.84d7ae41.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.59f97137.css",
+    "static/js/main.84d7ae41.js"
   ]
 }

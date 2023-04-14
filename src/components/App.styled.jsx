@@ -15,7 +15,7 @@ export const ContentWrap = styled.div`
 
   @media screen and (min-width: 768px) {
     display: flex;
-    width: calc(904px * 7);
+    width: calc(904px * 9);
     height: 100vh;
     position: relative;
   }

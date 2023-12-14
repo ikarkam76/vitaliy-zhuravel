@@ -31,7 +31,7 @@ export const Experience = () => {
             my experience and knowledge of communication within the team will
             contribute to the successful implementation of team projects. My
             organizational and planning skills will ensure the efficiency and
-            accuracy of tasks.{' '}
+            accuracy of tasks.
           </WorkDesc>
           <WorkDesc>
             In addition, I have the ability for critical thinking and analysis,

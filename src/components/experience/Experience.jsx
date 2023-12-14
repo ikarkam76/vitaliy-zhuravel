@@ -16,14 +16,14 @@ export const Experience = () => {
               </a>
             </h3>
             <h3 style={{ fontSize: 20 }}>Sales Manager</h3>
-            <p>(2006-2023)</p>
+            <p>(2006-2021)</p>
           </WorkPosition>
           <WorkDesc>
             Promdesign is a company for the production and sale of materials for
             advertising and construction with branches throughout the country.
           </WorkDesc>
           <WorkDesc>
-            During 16 years of working in this company, I gained rich experience
+            During 15 years of working in this company, I gained rich experience
             in cooperation in a team, confidently organizing, planning and
             controlling the process of selling goods. My ability to make
             independent decisions and the ability to find non-standard solutions

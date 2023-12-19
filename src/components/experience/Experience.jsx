@@ -51,7 +51,7 @@ export const Experience = () => {
             advertising and construction with branches throughout the country.
           </WorkDesc>
           <WorkDesc>
-            During 15 years of working in this company, I gained rich experience
+            During 14 years of working in this company, I gained rich experience
             in cooperation in a team, confidently organizing, planning and
             controlling the process of selling goods. My ability to make
             independent decisions and the ability to find non-standard solutions

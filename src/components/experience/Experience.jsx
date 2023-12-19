@@ -11,12 +11,40 @@ export const Experience = () => {
         <WorkBlock>
           <WorkPosition>
             <h3 className="page-subtitle">
+              <a href="https://immersetech.co/" target="_blank" rel="noreferrer">
+                Immersetech
+              </a>
+            </h3>
+            <h3 style={{ fontSize: 13 }}>Software Engineer</h3>
+            <p>(2020-up to now)</p>
+          </WorkPosition>
+          <WorkDesc>
+            During my tenure at this company, I've traversed a path from a front-end developer
+             to a full-stack engineer. I've gained extensive experience in crafting applications
+              using React and Node.js, working with various frameworks like Next.js, Vue,
+               and pure React. Actively integrating MongoDB and PostgreSQL databases, 
+               my backend typically relies on Express and Nest.js.
+          </WorkDesc>
+          <WorkDesc>
+            Regularly engaging with multiple libraries and UI interfaces, 
+            I adeptly apply these tools in my projects. My work primarily involves 
+            team collaborations, enabling me to work both independently and collaboratively, 
+            efficiently utilizing my work hours.
+          </WorkDesc>
+          <WorkDesc>
+             Furthermore, I continuously refine my skill set, exploring new technologies, 
+             ensuring I remain at the forefront of the latest trends in the development landscape.
+          </WorkDesc>
+        </WorkBlock>
+        <WorkBlock>
+          <WorkPosition>
+            <h3 className="page-subtitle">
               <a href="https://promdesign.ua/" target="_blank" rel="noreferrer">
                 Promdesign
               </a>
             </h3>
-            <h3 style={{ fontSize: 20 }}>Sales Manager</h3>
-            <p>(2006-2021)</p>
+            <h3 style={{ fontSize: 13 }}>Sales Manager</h3>
+            <p>(2006-2020)</p>
           </WorkPosition>
           <WorkDesc>
             Promdesign is a company for the production and sale of materials for
@@ -51,7 +79,7 @@ export const Experience = () => {
                 Specmaster
               </a>
             </h3>
-            <h3 style={{ fontSize: 20 }}>Purchasing Manager</h3>
+            <h3 style={{ fontSize: 13 }}>Purchasing Manager</h3>
             <p>(2003-2006)</p>
           </WorkPosition>
           <WorkDesc>

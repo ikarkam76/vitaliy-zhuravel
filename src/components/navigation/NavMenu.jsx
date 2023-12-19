@@ -35,9 +35,9 @@ export const NavMenu = () => {
         <NavListItem>
           <MenuLink onClick={()=>scrollTo("#experience")} >Experience</MenuLink>
         </NavListItem>
-        <NavListItem>
+        {/* <NavListItem>
           <MenuLink onClick={()=>scrollTo("#education")} >Education</MenuLink>
-        </NavListItem>
+        </NavListItem> */}
         <NavListItem>
           <MenuLink onClick={()=>scrollTo("#portfolio")} >Portfolio</MenuLink>
         </NavListItem>

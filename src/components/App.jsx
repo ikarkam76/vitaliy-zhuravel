@@ -8,7 +8,7 @@ import { About } from './about/About';
 import { Contact } from './contact/Contact';
 import { Skills } from './skills/Skills';
 import { Experience } from './experience/Experience';
-import { Education } from './education/Education';
+// import { Education } from './education/Education';
 import { Portfolio } from './portfolio/Portfolio';
 import logo from '../images/logo1.png'
 import lastprofile from '../images/profile-01.jpg'
@@ -67,9 +67,9 @@ export const App = () => {
         <Section id="experience">
           <Experience />
         </Section>
-        <Section id="education">
+        {/* <Section id="education">
           <Education />
-        </Section>
+        </Section> */}
         <Section id="portfolio">
           <Portfolio />
         </Section>

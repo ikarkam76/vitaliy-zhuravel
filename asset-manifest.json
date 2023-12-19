@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/vitaliy-zhuravel/static/css/main.59f97137.css",
-    "main.js": "/vitaliy-zhuravel/static/js/main.7b6822d3.js",
+    "main.js": "/vitaliy-zhuravel/static/js/main.b937a126.js",
     "static/media/profile.jpg": "/vitaliy-zhuravel/static/media/profile.9634be14d6de8daf16a7.jpg",
     "static/media/profile-01.jpg": "/vitaliy-zhuravel/static/media/profile-01.52941ac1d3efd645ccb0.jpg",
     "static/media/react-images.jpg": "/vitaliy-zhuravel/static/media/react-images.b407205b8717f86c6082.jpg",
     "static/media/searchimages.jpg": "/vitaliy-zhuravel/static/media/searchimages.61d72d9c2233f4adc7fe.jpg",
-    "static/media/certificate.jpg": "/vitaliy-zhuravel/static/media/certificate.d1b6dabbe28f6737aaf8.jpg",
     "static/media/filmoteka.jpg": "/vitaliy-zhuravel/static/media/filmoteka.8ed8c670709909301cb5.jpg",
     "static/media/webstudio.jpg": "/vitaliy-zhuravel/static/media/webstudio.7e6503a8c5ef8e4eb3a1.jpg",
     "static/media/comments.jpg": "/vitaliy-zhuravel/static/media/comments.0d48b5ccaa89c32c1d7f.jpg",
@@ -18,10 +17,10 @@
     "static/media/logo1.png": "/vitaliy-zhuravel/static/media/logo1.5ce86cc96077e160833a.png",
     "index.html": "/vitaliy-zhuravel/index.html",
     "main.59f97137.css.map": "/vitaliy-zhuravel/static/css/main.59f97137.css.map",
-    "main.7b6822d3.js.map": "/vitaliy-zhuravel/static/js/main.7b6822d3.js.map"
+    "main.b937a126.js.map": "/vitaliy-zhuravel/static/js/main.b937a126.js.map"
   },
   "entrypoints": [
     "static/css/main.59f97137.css",
-    "static/js/main.7b6822d3.js"
+    "static/js/main.b937a126.js"
   ]
 }
